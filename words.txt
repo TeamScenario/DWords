@@ -1,5 +1,5 @@
 {
-  "TTL":"""TTC stands for \"time to copy\", was used for the first time by @CoderX on 08 March 2023 on time 17:30
+  "TTC":"""TTC stands for \"time to copy\", was used for the first time by @CoderX on 08 March 2023 on time 17:30
   
   Example:
     > Your friend: Hey bro see my awesome code:`print(\"chala ja bsdk\")`
