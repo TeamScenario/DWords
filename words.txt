@@ -11,5 +11,5 @@ Example:
 Example: 
     __Your friend: Bhai cbse board hai mera..
     You: Aree bc zazzra piche mudh toh, and screams aree bhai teri toh fati padi hai..
-    You: Toh bsdk sil de tu hi 🥲"""__
+    You: Toh bsdk sil de tu hi 🥲__"""
 }
