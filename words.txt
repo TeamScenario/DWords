@@ -19,5 +19,13 @@ You: Toh bsdk sil de tu hi 🥲__""",
   Example:
   __Your Friend: Hey bro see my dict in python: {'A bulky dict none ever wants to read...'}
   You: TTD :|__
-"""
+""",
+
+  "TTL":"""TTL stands for 'Time to leave'.
+  
+  
+  Example:
+  __Your friend: *Does something frequently that sucks
+  You: TTL__
+  """
 }
