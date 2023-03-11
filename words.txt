@@ -29,7 +29,7 @@ You: Toh bsdk sil de tu hi 🥲__""",
   You: TTL__
   """, 
   
-  "VPS":"""VPS stands for 'Virtual Private server' we use vps to host application (Developer thing)
+  "VPS":"""VPS stands for 'Virtual Private server' we use vps to host applications (Developer thing)
   
   
   Example:
