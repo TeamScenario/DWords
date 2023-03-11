@@ -2,23 +2,23 @@
   "TTC":"""TTC stands for \"time to copy\", was used for the first time by [CoderX](https://t.me/CoderX) on 08 March 2023 on time 17:30
   
 Example:
-__Your Friend: Hey bro see my awesome code: print(\"chala ja bsdk\")
-You: TTC
-Your Friend: JNL code output padh...__""",
+__ > Your Friend: Hey bro see my awesome code: print(\"chala ja bsdk\")
+ > You: TTC
+ > Your Friend: JNL code output padh...__""",
 
   "CBSE":"""CBSE stands for central board of secondary education.. but accourding to our knowledge ye ek aaisa gandu board hai jo baccho ki gand bina sabun pani ke maar leta hai ratta marna toh iske khoon mai hai!\n
   
 Example: 
-__Your friend: Bhai cbse board hai mera..
-You: Aree bc zazzra piche mudh toh, and screams aree bhai teri toh fati padi hai..
-You: Toh bsdk sil de tu hi 🥲__""",
+__ > Your friend: Bhai cbse board hai mera..
+ > You: Aree bc zazzra piche mudh toh, and screams aree bhai teri toh fati padi hai..
+ > You: Toh bsdk sil de tu hi 🥲__""",
   
   "TTD":"""TTD stands for 'Time to die'
   
   
   Example:
-  __Your Friend: Hey bro see my dict in python: {'A bulky dict none ever wants to read...'}
-  You: TTD :|__
+  __ > Your Friend: Hey bro see my dict in python: {'A bulky dict none ever wants to read...'}
+  > You: TTD :|__
 """,
 
   "TTL":"""TTL stands for 'Time to leave'.
