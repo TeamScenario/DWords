@@ -25,15 +25,15 @@ You: Toh bsdk sil de tu hi 🥲__""",
   
   
   Example:
-  __Your friend: *Does something frequently that sucks
-  You: TTL__
+  __ > Your friend: *Does something frequently that sucks
+   > You: TTL__
   """, 
   
   "VPS":"""VPS stands for 'Virtual Private server' we use vps to host applications (Developer thing)
   
   
   Example:
-  Your friend: Bhai vps dila de 🥲
-  You: Tera ghar jayenga isme.
+   __> Your friend: Bhai vps dila de 🥲
+   > You: Tera ghar jayenga isme.__
   """
 }
