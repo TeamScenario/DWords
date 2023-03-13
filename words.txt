@@ -43,5 +43,18 @@ __ > Your friend: Bhai cbse board hai mera..
   Example:
   __ > Your friend: Does a mistake and doesn't accepts
    > You: Galti gand ki tarah hoti hai dusro ki toh dikhti hai par khudki nahi.__
-  """
+  """,
+  
+  "GAND":"""Gand stands for ass in English..
+  
+  
+  Usage:
+  __ > Your friend (Girl): Hello
+    > You: Yaar gand dede
+    > She ignores
+    > You with lot of $$
+    > She: baby kab loge??
+    > You: chal hat behan ki l...
+    __
+    """
 }
