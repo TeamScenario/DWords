@@ -36,5 +36,5 @@ __ > Your friend: Bhai cbse board hai mera..
    __> Your friend: Bhai vps dila de 🥲
    > You: Tera ghar jayenga isme.__
   """,
-  "ADITYA":"""Aitya is @CoderX 's son"""
+  "ADITYA":"""Aditya is @CoderX 's son"""
 }
