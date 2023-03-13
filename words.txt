@@ -56,5 +56,12 @@ __ > Your friend: Bhai cbse board hai mera..
     > She: baby kab loge??
     > You: chal hat behan ki l...
     __
-    """
+    """,
+    "JNL": """Ja Na Lawda
+  Example: 
+      > Your friend: Bhai Bot banana sikha do..plz 😕
+      > You: jnl padhai kar nhi to  laure lag jayega tera..bhi
+     """
+     
+ 
 }
