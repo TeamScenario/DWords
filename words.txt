@@ -33,8 +33,15 @@ __ > Your friend: Bhai cbse board hai mera..
   
   
   Example:
-   __> Your friend: Bhai vps dila de 🥲
+   __ > Your friend: Bhai vps dila de 🥲
    > You: Tera ghar jayenga isme.__
   """,
-  "ADITYA":"""Aditya is @CoderX 's son"""
+  "ADITYA":"""Aditya is @CoderX 's son""",
+  
+  "GALTI":"""Stands for mistake in English.
+  
+  Example:
+  __ > Your friend: Does a mistake and doesn't accepts
+   > You: Galti gand ki tarah hoti hai dusro ki toh dikhti hai par khudki nahi.__
+  """
 }
