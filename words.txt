@@ -61,7 +61,20 @@ __ > Your friend: Bhai cbse board hai mera..
   Example: 
       > Your friend: Bhai Bot banana sikha do..plz 😕
       > You: jnl padhai kar nhi to  laure lag jayega tera..bhi
-     """
+     """,
+
+     "GM":"""It usually depends on the situation
+             > If person using this in good mood: Then it stands for good morning.
+             > If person using this is angry mood: Then it stands for Gand mara.
+
+
+     Example:
+        __ > Person 1 (morning time): Gm bro
+        > You: Good morning bro
+
+        > Person 1 (angry mood): Gm!
+        > You: bsdk gand marane ka kaam Tera hai bhul gya kya?__
+    """
      
  
 }
