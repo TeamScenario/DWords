@@ -80,9 +80,10 @@ __ > Your friend: Bhai cbse board hai mera..
      >If realtionship after 2 yrs, then if stands ignorance,ego aa jayenge use ,kabhi bolegi bb masi ka call hai phone mummy ko do rhi hu, baby mai aisa isliye kr rhi taki tum rahna sikh jao , baby bhaiya phone check krte ab nhi kar paungi call , finally good bye mujhe tujmai intrest hi nhi rha.""",
 
   "RR":"""rr stands for randi rona.
-Example:
+
+__Example:
         Your friend Aaditya (@Xotic69): Bhai usne dokha de diya 🥲
-        You: Ye randi rona kahi or jaake kar bsdk
+        You: Ye randi rona kahi or jaake kar bsdk.__
 """
  
 }
