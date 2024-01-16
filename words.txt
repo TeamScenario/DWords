@@ -84,6 +84,7 @@ __ > Your friend: Bhai cbse board hai mera..
 __Example:
         Your friend Aaditya (@Xotic69): Bhai usne dokha de diya 🥲
         You: Ye randi rona kahi or jaake kar bsdk.__
-"""
+""",
+"OIRAN":"""Oiran (花魁) is a collective term for the highest-ranking courtesans aka Randi in Japanese history, who were considered to be above common prostitutes (known as yūjo (遊女, lit. 'woman of pleasure')) for their more refined entertainment skills and training in the traditional arts.\n\n**Example:    > ** You know @FinallyDecoded is an Oiran!"""
  
 }
