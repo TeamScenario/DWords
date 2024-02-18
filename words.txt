@@ -75,7 +75,7 @@ __ > Your friend: Bhai cbse board hai mera..
         > Person 1 (angry mood): Gm!
         > You: bsdk gand marane ka kaam Tera hai bhul gya kya?__
     """,
-     "Love":"""It actually depends upon time
+     "LOVE":"""It actually depends upon time
        >If relationship is in beginning phase ,then it stands for True love ,believe,future talk❣️honge,Bacho mai name tak soch loge😂, ghanto baate hogi .
      >If realtionship after 2 yrs, then if stands ignorance,ego aa jayenge use ,kabhi bolegi bb masi ka call hai phone mummy ko do rhi hu, baby mai aisa isliye kr rhi taki tum rahna sikh jao , baby bhaiya phone check krte ab nhi kar paungi call , finally good bye mujhe tujmai intrest hi nhi rha.""",
 
